@@ -8,7 +8,7 @@ This GitHub repository contains an interactive employee dashboard developed usin
 The dashboard is equipped with a user-friendly filter that allows users to analyze employee data based on different departments, making it easier to identify trends and patterns specific to each department.
 
 ## Accessing the Dashboard
-You can directly access the interactive dashboard using the following link: [Employee Dashboard](https://your-dashboard-link)
+You can directly access the interactive dashboard using the following link: [Employee Dashboard](https://public.tableau.com/shared/QDB535RB7?:display_count=n&:origin=viz_share_link)
 
 ## Screenshots
 ![Graph 1: No of Managers Per Department](img/p1.png)
